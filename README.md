@@ -4,3 +4,5 @@ Python scripts that Ben wrote for AoC 2020
 For loop
 ## Day 2
 String index
+## Day 3 
+String as list
