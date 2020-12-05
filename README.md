@@ -6,3 +6,5 @@ For loop
 String index
 ## Day 3 
 String as list
+## Day 4
+Regular Expression
