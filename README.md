@@ -8,3 +8,5 @@ String index
 String as list
 ## Day 4
 Regular Expression
+## Day 5
+Binary
