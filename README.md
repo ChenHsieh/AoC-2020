@@ -10,3 +10,5 @@ String as list
 Regular Expression
 ## Day 5
 Binary
+## Day6
+set and string intersection
